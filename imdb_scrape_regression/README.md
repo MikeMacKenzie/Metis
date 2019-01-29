@@ -7,7 +7,6 @@ Then I cleaned the data thoroughly and did some feature engineering.**
 **I discovered that a director's mean gross of previous films was a strong positive predictor of box office success. Additionally,  runtime positively predicted box office gross as did a G, PG, or PG-13 rating (as compared to an R rating or being Not Rated). Other positive predictors of box office gross were number of films a director had in the top 10,000 and having a colon in the title.**\
 
 <br> 
-
 </br> 
 
 **Here you can see the relationship between MPAA rating and domestic gross. (9,136 movies total)**
@@ -17,12 +16,12 @@ Then I cleaned the data thoroughly and did some feature engineering.**
 
 </br> 
 
-**Instead of creating dummy variables for the ratings, I combined G/PG/PG-13 into one category and R/Not Rated into another, creating a binary variable. While this simplified the analyses, in the future it could be fruitful to investigate the ratings independently as well for possible interactions with other variables**
+**Instead of creating dummy variables for the ratings, I combined G/PG/PG-13 into one category and R/Not Rated into another, creating a binary variable. While this simplified the analyses, in the future it could be fruitful to investigate the ratings independently as well for possible interactions with other variables. (9,136 movies)**
 ![](mpaaratings2_gross.png)
-
+Actual dollars: P/PG/PG-13 Median = 19.7 Million,     R/Not Rated Median = 5.1 Million
 <br> 
 
 </br> 
 
-**One quirky finding was that, on average, movies containing a colon in the title earned significantly more than movies without a colon.** ![](colon_in_title.png)
-
+**One quirky finding was that, on average, movies containing a colon in the title earned significantly more than movies without a colon. (9,136 movies)** ![](colon_in_title.png)
+Actual dollars: Without ':' Median = 10.2 Million,     With ':' Median = 23.2 Million
