@@ -19,5 +19,5 @@ Actual dollars: P/PG/PG-13 Median = 19.7 Million,     R/Not Rated Median = 5.1 M
 <br> 
 </br> 
 
-**One quirky finding was that, on average, movies containing a colon in the title earned significantly more than movies without a colon. Also note that most movies (94%) do not have a colon in the title. (9,136 movies)** ![](colon_in_title.png)
+**On average, movies containing a colon in the title earned significantly more than movies without a colon. Also note that most movies (94%) do not have a colon in the title. (9,136 movies)** ![](colon_in_title.png)
 Actual dollars: Without ':' Median = 10.2 Million,     With ':' Median = 23.2 Million
