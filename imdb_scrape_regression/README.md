@@ -1,6 +1,6 @@
 
 **For this project I scraped the top 10,000 grossing films from IMDb using BeautifulSoup and Python.
-Then I cleaned the data thoroughly and did some feature engineering.**
+Using Pandas and regular expressions, along with other tools, I cleaned the data thoroughly and did some feature engineering.**
 
 **My main goal was to build a model to predict total domestic gross only using information that could be known before a movie is released in theaters.**
 
@@ -10,7 +10,6 @@ Then I cleaned the data thoroughly and did some feature engineering.**
 ![](mpaaratings5_gross.png)
 
 <br> 
-
 </br> 
 
 **Instead of creating dummy variables for the ratings, I combined G/PG/PG-13 into one category and R/Not Rated into another, creating a binary variable. While this simplified the analyses, in the future it could be fruitful to investigate the ratings independently as well for possible interactions with other variables. (9,136 movies)**
@@ -18,7 +17,6 @@ Then I cleaned the data thoroughly and did some feature engineering.**
 Actual dollars: P/PG/PG-13 Median = 19.7 Million,     R/Not Rated Median = 5.1 Million
 
 <br> 
-
 </br> 
 
 **One quirky finding was that, on average, movies containing a colon in the title earned significantly more than movies without a colon. Also note that most movies (94%) do not have a colon in the title. (9,136 movies)** ![](colon_in_title.png)
