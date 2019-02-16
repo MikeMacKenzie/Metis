@@ -1,7 +1,7 @@
 
-# Metis Project: Scraping, Cleaning, and Analyzing Data with Regression
+## Metis Project: Scraping, Cleaning, and Analyzing Data with Regression
 
-## Tools: Python (sklearn, statsmodels, pandas, numpy, matplotlib, seaborn), BeautifulSoup (web scraping), and regular expressions (re). 
+### Tools: Python (sklearn, statsmodels, pandas, numpy, matplotlib, seaborn), BeautifulSoup (web scraping), and regular expressions (re). 
 
 **I love movies so for this web-scraping project I scraped some movie data from IMDb. My main goal was to build a regression model that predicts total domestic gross only using information that could be known before a movie is released in theaters. The first step was checking out IMDb and figuring out an effective approach to scrape data. I decided to use the feature film “sort by” page ([here](https://www.imdb.com/search/title?title_type=feature&sort=boxoffice_gross_us,desc&view=advanced)) as this seemed to be most efficient and it contained the data I needed.**
 
