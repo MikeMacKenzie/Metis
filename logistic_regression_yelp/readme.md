@@ -16,7 +16,7 @@ The last step before modelling was dealing with class imbalance. In this dataset
 Now comes model training. I tried many different models but, in the end, a basic logistic regression model performed best. This modeled yielded an accuracy of 83% and an F1 score of .64. See the confusion matrix below. 
 
 <p>
-    <img src="https://github.com/MikeMacKenzie/Metis/blob/master/imdb_scrape_regression/01colonboxplot2.svg" width="500" alt="colon_title_gross"/>
+    <img src="https://github.com/MikeMacKenzie/Metis/blob/master/logistic_regression_yelp/Project03cm.svg" width="500" alt="cm"/>
     <br>
     <em></em>
 </p>
