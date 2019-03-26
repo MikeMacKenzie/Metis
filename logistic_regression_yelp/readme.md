@@ -30,7 +30,8 @@ The difference between a given user rating and that user’s average rating was 
 Lastly, there were a few words from the natural language processing that have some predictive power. For example, “options,” “welcoming,” and “beautiful” were negatively associated with closure where as “sad” was positively associated with being closed. 
 
 **Conclusion**  
-There could be many potential reasons why a restaurant would be listed as closed on Yelp. Perhaps the atmosphere is not beautiful, the staff is not welcoming, or there are not a lot (or too many) options. There could be other reasons, however, that might not be easily captured in the provided data. If a restaurant moves location is could be listed as “closed” at the current location even though it is not technically out of business. Maybe the owners have delicious food and are super friendly but just have financial troubles and therefore need to shut down. All in all, this was an enjoyable experience for me and I feel I learned a lot! 
+There could be many potential reasons why a restaurant would be listed as closed on Yelp. Perhaps the atmosphere is not beautiful, the staff is not welcoming, or there are not a lot (or too many) options. There could be other reasons, however, that might not be easily captured in the provided data. If a restaurant moves location it could be listed as “closed” at the current location even though it is not technically out of business. Maybe the owners have delicious food and are super friendly but just have financial troubles and therefore need to shut down.  
+All in all, this was an enjoyable experience for me and I feel I learned a lot! 
  
 
 
